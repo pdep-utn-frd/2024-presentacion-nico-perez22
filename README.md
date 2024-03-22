@@ -1,10 +1,7 @@
-# presentacion-
+# presentacion-Perez Nicolas
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
+Hola me llamo Nicolas, tengo 23 años y actualmente estoy cursando 2do año.
 
-Ya saben usar git!
+Algunos de mis hobbies son:
+- Jugar a la pelota.
+- Tocar la guitarra.
